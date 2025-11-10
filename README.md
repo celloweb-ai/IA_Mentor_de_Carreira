@@ -1,3 +1,5 @@
+![Header](https://github.com/celloweb-ai/IA_Mentor_de_Carreira/blob/main/images/mentor.png)
+
 <h1 align="center">
 🎓 TechCareer Strategist
 </h1>
